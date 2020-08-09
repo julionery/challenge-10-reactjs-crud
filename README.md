@@ -17,13 +17,23 @@ Nesse desafio, o objetivo foi desenvolver mais uma aplicação, a GoRestaurant. 
 
 Essa é uma aplicação que se conecta a uma fake API, e exibe os pratos de comida criados e permite a criação, remoção e atualização desses pratos.
 
+![](https://github.com/julionery/docs/blob/master/geral/GoRestaurantCapa.png?raw=true)
+
 ### :rocket: Tecnologias
 - [React](https://reactjs.org/ "ReactJS")
 - [Typescript](https://www.typescriptlang.org/)
 
 ### :computer: Bibliotecas e ferramentas:
-- [EditorConfig](https://editorconfig.org/) - Utilizado para organizar o padrão de código
-- [ESLint](https://eslint.org/) - Utilizado para organizar o padrão de código
+- [JSON Server](https://www.npmjs.com/package/json-server)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios "Axios")
+- [EditorConfig](https://editorconfig.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [React Router Dom](https://reacttraining.com/react-router/)
+- [Yup - Validation Fields](https://github.com/jquense/yup)
+- [React Modal](https://github.com/reactjs/react-modal)
+- [TS Jest](https://github.com/kulshekhar/ts-jest)
 
 ### :information_source: Como Usar
 
@@ -60,7 +70,7 @@ $ yarn start
 - Salve as alterações e crie uma mensagem de commit contando o que você fez:`git commit -m "feature: My new feature"`
 - Envie as suas alterações: `git push origin my-feature`
 
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions).
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
